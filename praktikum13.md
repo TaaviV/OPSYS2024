@@ -118,5 +118,5 @@ foreach ($protsess in $viimasedProtsessid) {
 
 ```
 
-[1](infotestarvuti1.png) <br>
-[2](infotestarvuti2.png)
+[Esimene pilt](infotestarvuti1.png) <br> <br>
+[Teine pilt](infotestarvuti2.png)
